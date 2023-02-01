@@ -1,0 +1,5 @@
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Hollow Square Star Pattern\Hollow Square Star Pattern\Hollow Square Star Pattern\bin\Debug\Hollow Square Star Pattern.exe.config
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Hollow Square Star Pattern\Hollow Square Star Pattern\Hollow Square Star Pattern\bin\Debug\Hollow Square Star Pattern.exe
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Hollow Square Star Pattern\Hollow Square Star Pattern\Hollow Square Star Pattern\bin\Debug\Hollow Square Star Pattern.pdb
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Hollow Square Star Pattern\Hollow Square Star Pattern\Hollow Square Star Pattern\obj\Debug\Hollow Square Star Pattern.exe
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Hollow Square Star Pattern\Hollow Square Star Pattern\Hollow Square Star Pattern\obj\Debug\Hollow Square Star Pattern.pdb
